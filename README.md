@@ -1,5 +1,8 @@
 # CSE_404_Project
 
+Our codes for our Random Forest and Logistic Regression models are found outside of the folder called “All Other Files”, while all of our other codes (including the ineffective models detailed in Project Step 5) are found within the file. In order to run the file, just run the cells in either file in the main directory. Our suubdirectory just includes all our files that were used to compile our final two files in the main directory. All included in our main directory is our learning curve picture. 
+
+
 Final Model - Random Forest:
 
 We experimented with different machine learning models, including a Decision Tree, SVM, Perceptron model, Logistic Regression, and Random Forest. However, for this project step, we focused only on the Logistic Regression and Random Forest models. After fine-tuning both models and configuring our data to be more optimal, we were able to increase our Random Forest model by around 2%; whereas for the Logistic Regression we were unable to make a significant change. 
